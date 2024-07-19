@@ -2445,11 +2445,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STUDENT-JULY\\Documents\\MyProject\\MyProject\\PrikazKorisnika\\PrikazKorisnika\\PrikazKorisnika.csproj",
+      "projectUniqueName": "C:\\Users\\STUDENT-JULY\\Documents\\PrikazKorisnika\\PrikazKorisnika\\PrikazKorisnika.csproj",
       "projectName": "PrikazKorisnika",
-      "projectPath": "C:\\Users\\STUDENT-JULY\\Documents\\MyProject\\MyProject\\PrikazKorisnika\\PrikazKorisnika\\PrikazKorisnika.csproj",
+      "projectPath": "C:\\Users\\STUDENT-JULY\\Documents\\PrikazKorisnika\\PrikazKorisnika\\PrikazKorisnika.csproj",
       "packagesPath": "C:\\Users\\STUDENT-JULY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STUDENT-JULY\\Documents\\MyProject\\MyProject\\PrikazKorisnika\\PrikazKorisnika\\obj\\",
+      "outputPath": "C:\\Users\\STUDENT-JULY\\Documents\\PrikazKorisnika\\PrikazKorisnika\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\STUDENT-JULY\\AppData\\Roaming\\NuGet\\NuGet.Config",

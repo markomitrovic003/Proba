@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6V6K3QgrJU4xPTLJzL3ssBuXOJtzzEd4B2wrc4dLHHkbXTFRCW0SU1r4aox1ynOHfYk6rUMwrY8fQGXXSNkO7w==",
+  "dgSpecHash": "wYH+LK5TUNIiZp/aSHtu63gyXs89mkqKzM52pOzwzyA3MvMV5oAKwBhenXCt7p3cAms52TZGHuudXXJW1zZk0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\STUDENT-JULY\\Documents\\MyProject\\MyProject\\PrikazKorisnika\\PrikazKorisnika\\PrikazKorisnika.csproj",
+  "projectFilePath": "C:\\Users\\STUDENT-JULY\\Documents\\PrikazKorisnika\\PrikazKorisnika\\PrikazKorisnika.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\STUDENT-JULY\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\STUDENT-JULY\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
